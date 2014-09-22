@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 
 <head>
+<body>
 <meta charset ="utf-8"/>
 <title>
-This is my favorite Lentil soup.
-</title>
+<strong>This is my favorite Lentil soup.</strong>
+</title> 
+It's very simple, and I've cobbled it together by trying some other recipes, and then well, leaving stuff out. It is very, very simple, but it is also one of my favorite foods ever. Here are the ingredients:
 </head>
+</body>
+
 <body>
-It's very simple, and I've cobbled it together by trying some other recipes, and then well, leaving stuff out. <a href="http://en.wikipedia.org/wiki/Lentil_soup">It is very, very simple, but it is also one of my favorite foods ever.</a> 
-<p>Here are the ingredients:</p>
-
-
 <ol>
 <li>
 <h3>Ingredients:</h3>
@@ -35,14 +35,15 @@ It's very simple, and I've cobbled it together by trying some other recipes, and
 
 <p>1 tbsp of vinegar<p></li>
 </ol>
+</body>
 
-
+<body>
 <ol>
 <li>
 <h3>Instructions:</h3>
-<p>Simple to do.</p> <p>Sweat the veggies over low heat with a little kosher salt.</p><div id="headshot"><img src="VeggieSweat.jpg" alt="just vegetables"/></div> <p>When the onion is translucent, add lentils and stir.</p> <p>Cook them with the veggies for a couple minutes.</p> <p>Add tomatoes, water, cumin, and bay leaves.</p> <p>Bring to a boil.</p> <p>Simmer covered for 1 hour to 1 1/2 hour.</p> <p>Add the vinegar and thyme, cook for another minute or two.</p> <p>Add salt to taste.</p>
+<p>Simple to do.</p> <p>Sweat the veggies over low heat with a little kosher salt.</p> <p>When the onion is translucent, add lentils and stir.</p> <p>Cook them with the veggies for a couple minutes.</p> <p>Add tomatoes, water, cumin, and bay leaves.</p> <p>Bring to a boil.</p> <p>Simmer covered for 1 hour to 1 1/2 hour.</p> <p>Add the vinegar and thyme, cook for another minute or two.</p> <p>Add salt to taste.</p>
 
-<p>I like my lentil soup this way, without too many herbs or any chicken broth. <a href="http://www.tasteofhome.com/recipes/course/soup-recipes/lentil-soup-recipes">Recipes that call for those things are nice enough, but I like the brightness and mild acidity the soup has this way.</a> I think it complements the earthy flavor of the lentils and the mirepoix.</p>
+<p>I like my lentil soup this way, without too many herbs or any chicken broth. Recipes that call for those things are nice enough, but I like the brightness and mild acidity the soup has this way. I think it complements the earthy flavor of the lentils and the mirepoix.</p>
 
 <h4>Important reminders and tips:</h4>
 <p>- Wash your lentils. And I did find a stone once, so keep an eye out.</p>
@@ -51,6 +52,6 @@ It's very simple, and I've cobbled it together by trying some other recipes, and
 
 <p>- Salt is key. I just made a batch of this and had to adjust the salt a couple times. The flavor is subtle so you need to use enough to bring it out, but if you use to much you'll overpower it. When I eat alone, I add salt in the bowl until it tastes about right. I think Kosher salt may do a noticeably better job here. Thanks to Carlo who got me paying more attention to my salt after a conversation we had awhile ago.</p></li>
 </ol>
-<div id="soups"><img src="FinishedSoup.jpg" alt="completed soup"/></div>
+<div id="headshot"><img src="../FinishedSoup.jpg" alt="picture of soup" /></div>
 </body>
 </html>
